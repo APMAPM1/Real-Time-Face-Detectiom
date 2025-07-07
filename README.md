@@ -17,11 +17,13 @@ face_detection_project/
 ├── haarcascades/
 │    └── haarcascade_frontalface_default.xml
 │
-├── requirements.txt
+├── .gitignore
+│
+├── README.md
 │
 ├── main.py
 │
-└── README.md
+└── requirements.txt
 
 ```
 
