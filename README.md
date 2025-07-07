@@ -24,10 +24,10 @@ face_detection_project/
 
 ## ⚙️ Requirements
 
-- Python 3.x
+- Python 3.7 or higher
 - OpenCV
 
-## Setup & Installation
+## 🛠️ Setup & Installation
 
 1.  **Clone the Repository:**
     ```bash
