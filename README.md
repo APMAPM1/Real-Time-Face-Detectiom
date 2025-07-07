@@ -12,8 +12,6 @@ This is a beginner-friendly Computer Vision project that detects **human faces a
 ## 📂 Folder Structure
 
 ```plaintext
-face_detection_project/
-│
 ├── haarcascades/
 │    └── haarcascade_frontalface_default.xml
 │
@@ -24,7 +22,6 @@ face_detection_project/
 ├── main.py
 │
 └── requirements.txt
-
 ```
 
 ## ⚙️ Requirements
