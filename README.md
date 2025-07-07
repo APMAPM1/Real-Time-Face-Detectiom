@@ -38,8 +38,8 @@ face_detection_project/
 
     ```bash
     # Replace with your repo URL if you put it on GitHub
-    git clone https://github.com/APMAPM1/Real-Time-Face-Detectiom.git
-    cd real-Time-Face-Detection
+    git clone https://github.com/APMAPM1/Real-Time-Face-Detection.git
+    cd Real-Time-Face-Detection
     ```
 
 2.  **Create a Virtual Environment (Recommended):**
