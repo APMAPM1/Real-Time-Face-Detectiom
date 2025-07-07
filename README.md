@@ -27,23 +27,39 @@ face_detection_project/
 - Python 3.x
 - OpenCV
 
-### Install Required Libraries:
+## Setup & Installation
 
-```bash
-pip install opencv-python
-```
+1.  **Clone the Repository:**
+    ```bash
+    # Replace with your repo URL if you put it on GitHub
+    git clone https://github.com/APMAPM1/Real-Time-Face-Detectiom.git
+    cd real-Time-Face-Detection
+    ```
 
-### How to Run
+2.  **Create a Virtual Environment (Recommended):**
+    ```bash
+    python -m venv venv
+    # On Windows:
+    .\venv\Scripts\activate
+    # On macOS/Linux:
+    source venv/bin/activate
+    ```
 
-```bash
-python main.py
-```
+3.  **Install Dependencies:**
+    ```bash
+    pip install -r requirements.txt
+    ```
+    
+4.  **Run:**
+    ```bash
+    python main.py
+    ```
 
-Your webcam will open automatically.
-Blue rectangles will appear around all detected faces.
-The number of faces detected will be displayed in real-time.
+    Your webcam will open automatically.
+    Blue rectangles will appear around all detected faces.
+    The number of faces detected will be displayed in real-time.
 
-Press 'q' to exit the program.
+    Press 'q' to exit the program.
 
 ## 🔗 Resources
 
