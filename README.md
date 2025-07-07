@@ -3,6 +3,7 @@
 This is a beginner-friendly Computer Vision project that detects **human faces and counts them in real-time** using a webcam. It uses OpenCV's pre-trained Haar Cascade Classifier to detect faces and draw bounding boxes around them, along with displaying the number of faces detected.
 
 ## 🚀 Project Overview
+
 - Real-time face detection using webcam.
 - Displays **the number of faces detected** on the screen.
 - Uses OpenCV's Haar Cascade pre-trained model.
@@ -15,6 +16,8 @@ face_detection_project/
 │
 ├── haarcascades/
 │    └── haarcascade_frontalface_default.xml
+│
+├── requirements.txt
 │
 ├── main.py
 │
@@ -30,6 +33,7 @@ face_detection_project/
 ## 🛠️ Setup & Installation
 
 1.  **Clone the Repository:**
+
     ```bash
     # Replace with your repo URL if you put it on GitHub
     git clone https://github.com/APMAPM1/Real-Time-Face-Detectiom.git
@@ -37,6 +41,7 @@ face_detection_project/
     ```
 
 2.  **Create a Virtual Environment (Recommended):**
+
     ```bash
     python -m venv venv
     # On Windows:
@@ -49,8 +54,8 @@ face_detection_project/
     ```bash
     pip install -r requirements.txt
     ```
-    
 4.  **Run:**
+
     ```bash
     python main.py
     ```
